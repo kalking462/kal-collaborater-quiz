@@ -13,7 +13,7 @@ questions = [
       "correct_index": 1 },
 
     { "question": "[Math] ∫ x dx =",
-      "choices": ["x^2 + C", "x^2/2 + C", "ln(x) + C", "2x + C"],
+
       "correct_index": 1 },
 
     { "question": "[Math] Solve 3x + 5 = 20. What is x?",
@@ -235,20 +235,101 @@ questions = [
     { "question": "[Chemistry] Electron geometry of CH4 (carbon):",
       "choices": ["Linear", "Trigonal planar", "Tetrahedral", "Octahedral"],
       "correct_index": 2 },
-]
-OBOBOB
+
     # ========== PHYSICS (17) ==========
     { "question": "[Physics] SI unit of force is:",
-OBOBOB      "choices": ["Joule", "Pascal", "Newton", "Watt"],
+     "choices": ["Joule", "Pascal", "Newton", "Watt"],
       "correct_index": 2 },
-OBOBOB
     { "question": "[Physics] Speed of light in vacuum is approximately:",
       "choices": ["3×10^6 m/s", "3×10^8 m/s", "3×10^10 m/s", "3×10^12 m/s"],
-OBOBOB      "correct_index": 1 },
-OBOBOB
+      "correct_index": 1 },
     { "question": "[Physics] F = ma is:",
       "choices": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Hooke's Law"],
       "correct_index": 1 },
+
+      #==========THIS PART IS DONE BY HAFIZA========
+
+    { "question": "[Chemistry] Which is a strong acid?",
+      "choices": ["CH3COOH", "HCl", "NH3", "H2O"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] An oxidizing agent:",
+      "choices": ["Donates electrons", "Accepts electrons", "Is always a metal", "Has no effect"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] Molarity (M) is:",
+      "choices": ["mol solute / kg solvent", "mol solute / L solution", "g solute / L solvent", "L solute / mol solution"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] A catalyst primarily:",
+      "choices": ["Increases ΔH", "Decreases ΔH", "Lowers activation energy", "Raises activation energy"],
+      "correct_index": 2 },
+
+    { "question": "[Chemistry] State of matter with definite volume but no fixed shape:",
+      "choices": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] Most electronegative element is:",
+      "choices": ["Oxygen", "Nitrogen", "Fluorine", "Chlorine"],
+      "correct_index": 2 },
+
+    { "question": "[Chemistry] Hybridization of carbon in ethene (C2H4):",
+      "choices": ["sp", "sp2", "sp3", "sp3d"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] Complete combustion of CH4 mainly produces:",
+      "choices": ["CO and H2O", "CO2 and H2O", "C and H2", "CO2 only"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] Which is a noble gas?",
+      "choices": ["Nitrogen", "Neon", "Oxygen", "Hydrogen"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] In Zn + CuSO4 → ZnSO4 + Cu, the species oxidized is:",
+      "choices": ["Zn", "Cu2+", "SO4^2−", "Cu"],
+      "correct_index": 0 },
+    { "question": "[Chemistry] Strong intermolecular force raising water’s boiling point:",
+      "choices": ["London dispersion", "Dipole–dipole", "Hydrogen bonding", "Ion–induced dipole"],
+      "correct_index": 2 },
+
+    # ========== BIOLOGY (17) ==========
+    { "question": "[Biology] The powerhouse of the cell is the:",
+      "choices": ["Nucleus", "Mitochondrion", "Ribosome", "Golgi apparatus"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] In DNA, adenine pairs with:",
+      "choices": ["Cytosine", "Guanine", "Thymine", "Uracil"],
+      "correct_index": 2 },
+
+    { "question": "[Biology] In eukaryotes, transcription occurs in the:",
+      "choices": ["Nucleus", "Cytoplasm", "Mitochondria", "Ribosome"],
+      "correct_index": 0 },
+
+    { "question": "[Biology] Ribosomes are sites of:",
+      "choices": ["DNA replication", "Protein synthesis", "Lipid synthesis", "ATP hydrolysis"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] Photosynthesis occurs in the:",
+      "choices": ["Mitochondria", "Chloroplast", "Lysosome", "Nucleolus"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] Enzymes are best described as:",
+      "choices": ["Energy sources", "Structural proteins", "Biological catalysts", "Genetic material"],
+      "correct_index": 2 },
+
+    { "question": "[Biology] Mitosis results in:",
+      "choices": ["Four haploid cells", "Two diploid identical cells", "Two haploid cells", "Four diploid cells"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] Oxygen is transported in blood primarily by:",
+      "choices": ["Platelets", "Plasma", "White blood cells", "Hemoglobin"],
+      "correct_index": 3 },
+
+    { "question": "[Biology] The genetic material of HIV is:",
+      "choices": ["DNA", "RNA", "Protein", "Carbohydrate"],
+      "correct_index": 1 },
+
+
 ]
 
 x = ["A", "B", "C", "D"]
