@@ -154,7 +154,7 @@ questions = [
       "choices": ["20", "22", "23", "25"],
       "correct_index": 3 },
 
-      #========THIS PART IS DONE BY KALID=====
+      #========THIS PART IS DONE BY KALID $=====
 
     { "question": "[Physics] SI unit of energy is:",
       "choices": ["Watt", "Joule", "Newton", "Volt"],
@@ -187,7 +187,7 @@ questions = [
       "choices": ["Concave", "Convex", "Cylindrical", "Planar"],
       "correct_index": 1 },
 
-    { "question": "[Physics] Kepler's first law states that planetary orbits are:",
+
       "choices": ["Circular", "Elliptical", "Parabolic", "Hyperbolic"],
       "correct_index": 1 },
 
