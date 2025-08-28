@@ -123,7 +123,7 @@ questions = [
       "correct_index": 3 },
 
     { "question": "[Aptitude] Angle between clock hands at 3:00:",
-      "choices": ["0°", "30°", "90°", "180°"],
+
       "correct_index": 2 },
 
     { "question": "[Aptitude] Distinct permutations of 'LEVEL':",
@@ -153,6 +153,88 @@ questions = [
     { "question": "[Aptitude] John is 5 years older than Mary. Their ages sum to 45. John's age is:",
       "choices": ["20", "22", "23", "25"],
       "correct_index": 3 },
+
+      #========THIS PART IS DONE BY KALID=====
+
+    { "question": "[Physics] SI unit of energy is:",
+      "choices": ["Watt", "Joule", "Newton", "Volt"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] Work done by a 10 N force over 2 m (parallel) is:",
+      "choices": ["5 J", "10 J", "20 J", "40 J"],
+      "correct_index": 2 },
+
+    { "question": "[Physics] Approximate acceleration due to gravity on Earth:",
+      "choices": ["8.9 m/s^2", "9.8 m/s^2", "10.8 m/s^2", "1 g/s^2"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] If V=12 V and R=4 Ω, current I is:",
+      "choices": ["1 A", "2 A", "3 A", "4 A"],
+      "correct_index": 2 },
+
+    { "question": "[Physics] Momentum (p) is defined as:",
+      "choices": ["m/a", "mv", "ma", "m/v"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] Which is a scalar quantity?",
+      "choices": ["Velocity", "Displacement", "Temperature", "Force"],
+      "correct_index": 2 },
+
+    { "question": "[Physics] Which particle has no electric charge?",
+      "choices": ["Proton", "Electron", "Neutron", "Alpha particle"],
+      "correct_index": 2 },
+    { "question": "[Physics] A lens that converges light is:",
+      "choices": ["Concave", "Convex", "Cylindrical", "Planar"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] Kepler's first law states that planetary orbits are:",
+      "choices": ["Circular", "Elliptical", "Parabolic", "Hyperbolic"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] Unit of frequency is:",
+      "choices": ["Newton", "Hertz", "Joule", "Tesla"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] Pressure is defined as:",
+      "choices": ["Force × area", "Force / area", "Area / force", "Work / time"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] The First Law of Thermodynamics is about:",
+      "choices": ["Entropy decrease", "Energy conservation", "Action-reaction", "Inertia"],
+      "correct_index": 1 },
+
+    { "question": "[Physics] Amplitude of a wave is:",
+      "choices": ["Time period", "Number of cycles", "Max displacement", "Wavelength"],
+      "correct_index": 2 },
+
+    { "question": "[Physics] Highest energy EM radiation:",
+      "choices": ["Radio waves", "Infrared", "X-rays", "Gamma rays"],
+      "correct_index": 3 },
+
+    # ========== CHEMISTRY (17) ==========
+    { "question": "[Chemistry] Avogadro’s number is:",
+      "choices": ["6.022×10^22", "6.022×10^23", "6.022×10^24", "6.022×10^25"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] pH of a neutral solution at 25°C is:",
+      "choices": ["0", "7", "14", "1"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] Oxidation number of oxygen in H2O is:",
+      "choices": ["-2", "-1", "0", "+2"],
+      "correct_index": 0 },
+
+    { "question": "[Chemistry] Bond type in NaCl is primarily:",
+      "choices": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+      "correct_index": 1 },
+
+    { "question": "[Chemistry] PV = nRT is the:",
+      "choices": ["Boyle’s Law", "Charles’s Law", "Ideal Gas Law", "Dalton’s Law"],
+      "correct_index": 2 },
+
+    { "question": "[Chemistry] Electron geometry of CH4 (carbon):",
+      "choices": ["Linear", "Trigonal planar", "Tetrahedral", "Octahedral"],
+      "correct_index": 2 },
 ]
 OBOBOB
     # ========== PHYSICS (17) ==========
