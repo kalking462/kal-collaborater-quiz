@@ -71,6 +71,89 @@ questions = [
     { "question": "[Math] The derivative of e^(2x) is:",
       "choices": ["e^(2x)", "2e^(2x)", "e^(x)", "2e^(x)"],
       "correct_index": 1 },
+    #========THIS PART IS DONE BY SELAM========
+
+    { "question": "[English] 'Once in a blue moon' means:",
+      "choices": ["very often", "very rarely", "at night", "twice monthly"],
+      "correct_index": 1 },
+
+    { "question": "[English] Comparative of 'good' is:",
+      "choices": ["gooder", "best", "better", "more good"],
+      "correct_index": 2 },
+
+    { "question": "[English] Author of 'Romeo and Juliet':",
+      "choices": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "correct_index": 1 },
+
+    { "question": "[English] Antonym of 'expand' is:",
+      "choices": ["extend", "enlarge", "contract", "inflate"],
+      "correct_index": 2 },
+
+    # ========== APTITUDE / REASONING (16) ==========
+    { "question": "[Aptitude] Next number in the series 2, 4, 8, 16, ?",
+      "choices": ["18", "24", "32", "64"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] Odd one out: Square, Triangle, Circle, Rectangle",
+      "choices": ["Square", "Triangle", "Circle", "Rectangle"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] Simple interest on $1000 at 5% p.a. for 2 years:",
+      "choices": ["$50", "$100", "$150", "$200"],
+      "correct_index": 1 },
+
+    { "question": "[Aptitude] Simplify the ratio 15:45",
+      "choices": ["1:2", "1:3", "3:1", "2:3"],
+      "correct_index": 1 },
+
+    { "question": "[Aptitude] Probability of heads on a fair coin toss:",
+      "choices": ["0", "1/2", "1/3", "1"],
+      "correct_index": 1 },
+
+    { "question": "[Aptitude] Average of 5, 7, 9 is:",
+      "choices": ["6", "7", "8", "9"],
+      "correct_index": 1 },
+
+    { "question": "[Aptitude] A does a job in 10 days, B in 20 days. Together, time needed:",
+      "choices": ["5 days", "6 days", "6.67 days", "7.5 days"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] Distance at 60 km/h for 2 hours is:",
+      "choices": ["60 km", "90 km", "100 km", "120 km"],
+      "correct_index": 3 },
+
+    { "question": "[Aptitude] Angle between clock hands at 3:00:",
+      "choices": ["0°", "30°", "90°", "180°"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] Distinct permutations of 'LEVEL':",
+      "choices": ["12", "24", "30", "60"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] All mammals are animals; all dogs are mammals. Therefore, dogs are animals.",
+      "choices": ["Valid", "Invalid", "Unsure", "Paradox"],
+      "correct_index": 0 },
+
+    { "question": "[Aptitude] 20% of 250 equals:",
+      "choices": ["25", "40", "50", "60"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] Bought for $200, sold for $240. Profit percentage:",
+      "choices": ["10%", "15%", "20%", "25%"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] If x:y = 2:3 and y:z = 4:5, then x:z =",
+      "choices": ["6:5", "8:15", "3:5", "2:5"],
+      "correct_index": 1 },
+
+    { "question": "[Aptitude] LCM of 12 and 18 is:",
+      "choices": ["24", "30", "36", "48"],
+      "correct_index": 2 },
+
+    { "question": "[Aptitude] John is 5 years older than Mary. Their ages sum to 45. John's age is:",
+      "choices": ["20", "22", "23", "25"],
+      "correct_index": 3 },
+]
 OBOBOB
     # ========== PHYSICS (17) ==========
     { "question": "[Physics] SI unit of force is:",
