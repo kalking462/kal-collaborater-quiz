@@ -247,7 +247,7 @@ questions = [
       "choices": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Hooke's Law"],
       "correct_index": 1 },
 
-      #==========THIS PART IS DONE BY HAFIZA========
+      #==========THIS PART IS DONE BY HAFIZA $========
 
     { "question": "[Chemistry] Which is a strong acid?",
       "choices": ["CH3COOH", "HCl", "NH3", "H2O"],
@@ -407,7 +407,8 @@ questions = [
 
     { "question": "[English] Correctly punctuated sentence:",
       "choices": ["However I decided to stay.", "However, I decided to stay.", "However; I decided to stay.", "However I decided, to stay."],
-      "correct_index": 1 },
+      "correct_index": 1}
+
 
 
 ]
