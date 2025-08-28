@@ -292,7 +292,6 @@ questions = [
       "choices": ["London dispersion", "Dipole–dipole", "Hydrogen bonding", "Ion–induced dipole"],
       "correct_index": 2 },
 
-    # ========== BIOLOGY (17) ==========
     { "question": "[Biology] The powerhouse of the cell is the:",
       "choices": ["Nucleus", "Mitochondrion", "Ribosome", "Golgi apparatus"],
       "correct_index": 1 },
@@ -327,6 +326,87 @@ questions = [
 
     { "question": "[Biology] The genetic material of HIV is:",
       "choices": ["DNA", "RNA", "Protein", "Carbohydrate"],
+      "correct_index": 1 },
+     #=========THIS PART IS DONE BY ENDIYA========
+
+    { "question": "[Biology] Natural selection favors:",
+      "choices": ["Least fit traits", "Random traits", "Traits increasing fitness", "Traits reducing survival"],
+      "correct_index": 2 },
+
+    { "question": "[Biology] Homeostasis refers to:",
+      "choices": ["Cell division", "Genetic variation", "Internal balance", "Population growth"],
+      "correct_index": 2 },
+
+    { "question": "[Biology] The junction between two neurons is called:",
+      "choices": ["Axon", "Dendrite", "Synapse", "Myelin"],
+      "correct_index": 2 },
+
+    { "question": "[Biology] Insulin is produced by the:",
+      "choices": ["Liver", "Pancreas", "Thyroid", "Adrenal gland"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] The largest organ of the human body is the:",
+      "choices": ["Liver", "Skin", "Brain", "Heart"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] Antibodies are produced by:",
+      "choices": ["T cells", "B lymphocytes", "Macrophages", "Neutrophils"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] The diploid number of chromosomes in humans is:",
+      "choices": ["23", "46", "44", "48"],
+      "correct_index": 1 },
+
+    { "question": "[Biology] Meiosis results in:",
+      "choices": ["Diploid gametes", "Haploid gametes", "Identical somatic cells", "Polyploid cells"],
+      "correct_index": 1 },
+
+    # ========== ENGLISH (16) ==========
+    { "question": "[English] Synonym of 'benevolent' is:",
+      "choices": ["cruel", "stingy", "kind", "rude"],
+      "correct_index": 2 },
+
+    { "question": "[English] Antonym of 'scarce' is:",
+      "choices": ["rare", "abundant", "few", "little"],
+      "correct_index": 1 },
+
+    { "question": "[English] Correct spelling:",
+      "choices": ["accomodate", "acommodate", "accommodate", "accomadate"],
+      "correct_index": 2 },
+
+    { "question": "[English] 'Quickly' is a/an:",
+      "choices": ["adjective", "adverb", "noun", "preposition"],
+      "correct_index": 1 },
+
+    { "question": "[English] Passive voice of 'She writes a letter' is:",
+      "choices": ["A letter has written by her.", "A letter is written by her.", "A letter was write by her.", "A letter wrote by her."],
+      "correct_index": 1 },
+    { "question": "[English] A simile is a comparison using:",
+      "choices": ["neither like nor as", "only as", "only like", "like or as"],
+      "correct_index": 3 },
+
+    { "question": "[English] Choose the correct verb: 'The list of items ___ on the table.'",
+      "choices": ["are", "is", "were", "be"],
+      "correct_index": 1 },
+
+    { "question": "[English] Fill the preposition: 'He is interested ___ physics.'",
+      "choices": ["on", "in", "at", "for"],
+      "correct_index": 1 },
+
+    { "question": "[English] 'I have been studying' is in the:",
+      "choices": ["present simple", "present continuous", "present perfect", "present perfect continuous"],
+      "correct_index": 3 },
+
+    { "question": "[English] Correct article: 'It is ___ honor to meet you.'",
+      "choices": ["a", "an", "the", "no article"],
+      "correct_index": 1 },
+
+    { "question": "[English] Which pair are homophones?",
+      "choices": ["peace/piece", "effect/affect", "then/than", "accept/except"],
+      "correct_index": 0 },
+
+    { "question": "[English] Correctly punctuated sentence:",
+      "choices": ["However I decided to stay.", "However, I decided to stay.", "However; I decided to stay.", "However I decided, to stay."],
       "correct_index": 1 },
 
 
